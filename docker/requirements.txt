@@ -3,3 +3,5 @@ torch
 tqdm
 hydra-core
 vmas>=1.2.10
+benchmarl
+pettingzoo[all]
